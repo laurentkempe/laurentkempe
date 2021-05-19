@@ -2,6 +2,9 @@
 
 My name is Laurent Kempé ([@laurentkempe](https://twitter.com/laurentkempe) on Twitter). I'm a Team Leader & Distinguished Solution Architect at [Innoveo](https://www.innoveo.com/) with a passion for shipping high-quality products by empowering development teams and culture toward an agile mindset.
 
+#### 📗 Recent blog posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 <!--
 **laurentkempe/laurentkempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
