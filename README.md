@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Laurent Kempé ([@laurentkempe](https://twitter.com/laurentkempe) on Twitter). I'm a Team Leader & Distinguished Solution Architect at [Innoveo](https://www.innoveo.com/) with a passion for shipping high-quality products by empowering development teams and culture toward an agile mindset.
+My name is Laurent Kempé ([@laurentkempe](https://twitter.com/laurentkempe) on Twitter). I'm a Team Leader & Distinguished Solution Architect at [Innoveo](https://www.innoveo.com/) with a passion for shipping high-quality products by empowering development teams and culture.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentkempe/)](https://www.linkedin.com/in/laurentkempe/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/laurentkempe)](https://twitter.com/laurentkempe)
+
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
@@ -15,6 +19,11 @@ My name is Laurent Kempé ([@laurentkempe](https://twitter.com/laurentkempe) on 
 * [gRPC and C# 8 Async stream](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;ld_J_XyNvdU&#x2F;)
 * [WPF and .NET Generic Host with .NET Core 3.0](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;S_YtGIsp4iY&#x2F;)
 <!--END_SECTION:feed-->
+
+#### 💹 Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=laurentkempe&show_icons=true&hide_border=true)
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=clsivo&hide=html&layout=compac -->
 
 <!--
 **laurentkempe/laurentkempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
