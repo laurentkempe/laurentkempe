@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Laurent Kempé ([@laurentkempe](https://twitter.com/laurentkempe) on Twitter). I'm a Team Leader & Distinguished Solution Architect at [Innoveo](https://www.innoveo.com/) with a passion for shipping high-quality products by empowering development teams and culture.
+I enjoy spending some of my free time in open source projects and personal side projects involving software architecture and engineering. Like [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin/), which displays live Git changes of the currently edited file on Visual Studio margin and scroll bar.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentkempe/)](https://www.linkedin.com/in/laurentkempe/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/laurentkempe)](https://twitter.com/laurentkempe)
