@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Dapr binding building block by simple example](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;fEC69kP_d3o&#x2F;)
 * [Accessing Dapr secrets building block using Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;GKoKWU5WYko&#x2F;)
 * [Calling Dapr service with gRPC](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;s8nEl1HOgyQ&#x2F;)
 * [Service to service invocation with Refit and Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;c6SkZzvAnV0&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Automate developer work using Git Aliases](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;XLLWscF_7AM&#x2F;)
 * [gRPC and C# 8 Async stream cancellation](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;H7BkiYDvldw&#x2F;)
 * [gRPC and C# 8 Async stream](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;ld_J_XyNvdU&#x2F;)
-* [WPF and .NET Generic Host with .NET Core 3.0](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;S_YtGIsp4iY&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
