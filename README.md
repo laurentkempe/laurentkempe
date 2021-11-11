@@ -9,16 +9,16 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
-* [Dapr binding building block by simple example](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;fEC69kP_d3o&#x2F;)
-* [Accessing Dapr secrets building block using Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;GKoKWU5WYko&#x2F;)
-* [Calling Dapr service with gRPC](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;s8nEl1HOgyQ&#x2F;)
-* [Service to service invocation with Refit and Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;c6SkZzvAnV0&#x2F;)
-* [Service to service invocation with Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;s-hb1lVySMc&#x2F;)
-* [Using Service Invocation from Dapr .NET SDK](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;Bu7sT0fayhU&#x2F;)
-* [Getting started with Dapr for .NET Developers](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;AcAydzWzIcI&#x2F;)
-* [Automate developer work using Git Aliases](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;XLLWscF_7AM&#x2F;)
-* [gRPC and C# 8 Async stream cancellation](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;H7BkiYDvldw&#x2F;)
-* [gRPC and C# 8 Async stream](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;laurentkempe&#x2F;~3&#x2F;ld_J_XyNvdU&#x2F;)
+* [Dapr binding building block by simple example](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;10&#x2F;19&#x2F;dapr-binding-building-block-by-simple-example&#x2F;)
+* [Accessing Dapr secrets building block using Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;04&#x2F;06&#x2F;accessing-dapr-secrets-building-block-using-dapr-dotnet-sdk&#x2F;)
+* [Calling Dapr service with gRPC](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;25&#x2F;calling-dapr-service-with-grpc&#x2F;)
+* [Service to service invocation with Refit and Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;18&#x2F;service-to-service-invocation-with-refit-and-dapr-dotnet-sdk&#x2F;)
+* [Service to service invocation with Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;service-to-service-invocation-with-dapr-dotnet-sdk&#x2F;)
+* [Using Service Invocation from Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;11&#x2F;using-service-invocation-from-dapr-dotnet-sdk&#x2F;)
+* [Getting started with Dapr for .NET Developers](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;09&#x2F;getting-started-with-dapr-for-dotnet-developers&#x2F;)
+* [Automate developer work using Git Aliases](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2020&#x2F;02&#x2F;28&#x2F;Automate-developer-work-using-Git-Aliases&#x2F;)
+* [gRPC and C# 8 Async stream cancellation](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2019&#x2F;09&#x2F;25&#x2F;gRPC-and-csharp-8-Async-stream-cancellation&#x2F;)
+* [gRPC and C# 8 Async stream](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2019&#x2F;09&#x2F;18&#x2F;gRPC-and-csharp-8-Async-stream&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
