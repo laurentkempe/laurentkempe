@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Unit testing Async WPF ICommand](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;10&#x2F;unit-testing-async-wpf-icommand&#x2F;)
 * [Automate your .NET project builds with NUKE a cross-platform build automation solution](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;02&#x2F;automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution&#x2F;)
 * [Dapr binding building block by simple example](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;10&#x2F;19&#x2F;dapr-binding-building-block-by-simple-example&#x2F;)
 * [Accessing Dapr secrets building block using Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;04&#x2F;06&#x2F;accessing-dapr-secrets-building-block-using-dapr-dotnet-sdk&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Using Service Invocation from Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;11&#x2F;using-service-invocation-from-dapr-dotnet-sdk&#x2F;)
 * [Getting started with Dapr for .NET Developers](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;09&#x2F;getting-started-with-dapr-for-dotnet-developers&#x2F;)
 * [Automate developer work using Git Aliases](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2020&#x2F;02&#x2F;28&#x2F;Automate-developer-work-using-Git-Aliases&#x2F;)
-* [gRPC and C# 8 Async stream cancellation](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2019&#x2F;09&#x2F;25&#x2F;gRPC-and-csharp-8-Async-stream-cancellation&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
