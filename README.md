@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Write Logseq plugins in WebAssembly using .NET and C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;12&#x2F;write-logseq-plugins-in-webassembly-using-dotnet-and-csharp&#x2F;)
 * [Unit testing Async WPF ICommand](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;10&#x2F;unit-testing-async-wpf-icommand&#x2F;)
 * [Automate your .NET project builds with NUKE a cross-platform build automation solution](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;02&#x2F;automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution&#x2F;)
 * [Dapr binding building block by simple example](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;10&#x2F;19&#x2F;dapr-binding-building-block-by-simple-example&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Service to service invocation with Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;service-to-service-invocation-with-dapr-dotnet-sdk&#x2F;)
 * [Using Service Invocation from Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;11&#x2F;using-service-invocation-from-dapr-dotnet-sdk&#x2F;)
 * [Getting started with Dapr for .NET Developers](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;09&#x2F;getting-started-with-dapr-for-dotnet-developers&#x2F;)
-* [Automate developer work using Git Aliases](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2020&#x2F;02&#x2F;28&#x2F;Automate-developer-work-using-Git-Aliases&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
