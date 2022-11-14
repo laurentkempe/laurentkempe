@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [.NET 7 SDK built-in container support and Ubuntu Chiseled](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;11&#x2F;14&#x2F;dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled&#x2F;)
 * [Experimenting with .NET 7, WASM, and WASI on Docker](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;31&#x2F;experimenting-with-dotnet-7-wasm-and-wasi-on-docker&#x2F;)
 * [Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;29&#x2F;using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w&#x2F;)
 * [Write Logseq plugins in WebAssembly using .NET and C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;12&#x2F;write-logseq-plugins-in-webassembly-using-dotnet-and-csharp&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Accessing Dapr secrets building block using Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;04&#x2F;06&#x2F;accessing-dapr-secrets-building-block-using-dapr-dotnet-sdk&#x2F;)
 * [Calling Dapr service with gRPC](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;25&#x2F;calling-dapr-service-with-grpc&#x2F;)
 * [Service to service invocation with Refit and Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;18&#x2F;service-to-service-invocation-with-refit-and-dapr-dotnet-sdk&#x2F;)
-* [Service to service invocation with Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;service-to-service-invocation-with-dapr-dotnet-sdk&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
