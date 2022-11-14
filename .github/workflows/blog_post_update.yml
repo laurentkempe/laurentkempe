@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: http://feeds.feedburner.com/laurentkempe
+          feed-url: https://laurentkempe.com/atom.xml
           readme-section: feed
           max: 10
           template: "* [{{ title }}]({{ link }}) \n"
