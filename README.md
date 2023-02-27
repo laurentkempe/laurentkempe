@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Debugging Dapr applications with Rider or Visual Studio: A better way](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;02&#x2F;27&#x2F;debugging-dapr-applications-with-rider-or-visual-studio-a-better-way&#x2F;)
 * [Refactoring huge C# code base in minutes](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;02&#x2F;20&#x2F;refactoring-huge-csharp-code-base-in-minutes&#x2F;)
 * [.NET 7 SDK built-in container support and Ubuntu Chiseled](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;11&#x2F;14&#x2F;dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled&#x2F;)
 * [Experimenting with .NET 7, WASM, and WASI on Docker](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;31&#x2F;experimenting-with-dotnet-7-wasm-and-wasi-on-docker&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Automate your .NET project builds with NUKE a cross-platform build automation solution](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;02&#x2F;automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution&#x2F;)
 * [Dapr binding building block by simple example](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;10&#x2F;19&#x2F;dapr-binding-building-block-by-simple-example&#x2F;)
 * [Accessing Dapr secrets building block using Dapr .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;04&#x2F;06&#x2F;accessing-dapr-secrets-building-block-using-dapr-dotnet-sdk&#x2F;)
-* [Calling Dapr service with gRPC](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2021&#x2F;03&#x2F;25&#x2F;calling-dapr-service-with-grpc&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
