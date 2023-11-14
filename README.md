@@ -9,6 +9,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [What&#39;s new in C# 12](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;11&#x2F;14&#x2F;whats-new-in-csharp-12&#x2F;)
 * [Publish .NET Docker images using .NET SDK and GitHub Actions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;30&#x2F;publish-dotnet-docker-images-using-dotnet-sdk-and-github-actions&#x2F;)
 * [Simplify your .NET Docker image publishing workflow with the .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;24&#x2F;simplify-your-dotnet-docker-image-publishing-workflow-with-the-dotnet-sdk&#x2F;)
 * [.NET 7 SDK built-in container improvements](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;03&#x2F;13&#x2F;dotnet-7-sdk-built-in-container-improvements&#x2F;)
@@ -18,7 +19,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Experimenting with .NET 7, WASM, and WASI on Docker](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;31&#x2F;experimenting-with-dotnet-7-wasm-and-wasi-on-docker&#x2F;)
 * [Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;29&#x2F;using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w&#x2F;)
 * [Write Logseq plugins in WebAssembly using .NET and C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;12&#x2F;write-logseq-plugins-in-webassembly-using-dotnet-and-csharp&#x2F;)
-* [Unit testing Async WPF ICommand](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;02&#x2F;10&#x2F;unit-testing-async-wpf-icommand&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
