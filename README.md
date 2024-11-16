@@ -5,6 +5,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentkempe/)](https://www.linkedin.com/in/laurentkempe/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/laurentkempe)](https://twitter.com/laurentkempe)
+[![Bluesky Badge](https://img.shields.io/badge/-Bluesky-0285FF?style=flat-square&labelColor=0285FF&logo=bluesky&logoColor=white&link=https://bsky.app/profile/laurentkempe.bsky.social)](https://bsky.app/profile/laurentkempe.bsky.social)
 
 
 #### 📗 Recent blog posts
