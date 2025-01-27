@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;01&#x2F;27&#x2F;leveraging-microsoftextensionsai-for-tool-calling-in-csharp&#x2F;)
 * [Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;10&#x2F;28&#x2F;learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine&#x2F;)
 * [Run Phi-3 SLM on your machine with C# Semantic Kernel and Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;05&#x2F;01&#x2F;run-phi-3-slm-on-your-machine-with-csharp-semantic-kernel-and-ollama&#x2F;)
 * [What&#39;s new in C# 12](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;11&#x2F;14&#x2F;whats-new-in-csharp-12&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Debugging Dapr applications with Rider or Visual Studio: A better way](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;02&#x2F;27&#x2F;debugging-dapr-applications-with-rider-or-visual-studio-a-better-way&#x2F;)
 * [Refactoring huge C# code base in minutes](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;02&#x2F;20&#x2F;refactoring-huge-csharp-code-base-in-minutes&#x2F;)
 * [.NET 7 SDK built-in container support and Ubuntu Chiseled](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;11&#x2F;14&#x2F;dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled&#x2F;)
-* [Experimenting with .NET 7, WASM, and WASI on Docker](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2022&#x2F;10&#x2F;31&#x2F;experimenting-with-dotnet-7-wasm-and-wasi-on-docker&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
