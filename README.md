@@ -11,7 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
-* [Harnessing DeepSeek-R1 with .NET Aspire and Ollama locally](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;02&#x2F;01&#x2F;harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally&#x2F;)
+* [Harnessing DeepSeek-R1 distilled model with .NET Aspire and Ollama locally](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;02&#x2F;01&#x2F;harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally&#x2F;)
 * [Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;01&#x2F;27&#x2F;leveraging-microsoftextensionsai-for-tool-calling-in-csharp&#x2F;)
 * [Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;10&#x2F;28&#x2F;learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine&#x2F;)
 * [Run Phi-3 SLM on your machine with C# Semantic Kernel and Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;05&#x2F;01&#x2F;run-phi-3-slm-on-your-machine-with-csharp-semantic-kernel-and-ollama&#x2F;)
