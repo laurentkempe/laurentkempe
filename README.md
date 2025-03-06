@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [.NET Aspire and Dev Container](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;06&#x2F;dotnet-aspire-and-dev-container&#x2F;)
 * [Building Local AI Agents: Semantic Kernel Agent with Functions in C# using Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;02&#x2F;building-local-ai-agents-semantic-kernel-agent-with-functions-in-csharp-using-ollama&#x2F;)
 * [Building Local AI Agents: Semantic Kernel and Ollama in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;01&#x2F;building-local-ai-agents-semantic-kernel-and-ollama-in-csharp&#x2F;)
 * [Harnessing DeepSeek-R1 distilled model with .NET Aspire and Ollama locally](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;02&#x2F;01&#x2F;harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [What&#39;s new in C# 12](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;11&#x2F;14&#x2F;whats-new-in-csharp-12&#x2F;)
 * [Publish .NET Docker images using .NET SDK and GitHub Actions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;30&#x2F;publish-dotnet-docker-images-using-dotnet-sdk-and-github-actions&#x2F;)
 * [Simplify your .NET Docker image publishing workflow with the .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;24&#x2F;simplify-your-dotnet-docker-image-publishing-workflow-with-the-dotnet-sdk&#x2F;)
-* [.NET 7 SDK built-in container improvements](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;03&#x2F;13&#x2F;dotnet-7-sdk-built-in-container-improvements&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
