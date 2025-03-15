@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Harnessing AI in C# with Microsoft.Extensions.AI, Ollama, and MCP Server](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;15&#x2F;harnessing-ai-in-csharp-with-microsoftextensionsai-ollama-and-mcp-server&#x2F;)
 * [.NET Aspire and Dev Container](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;06&#x2F;dotnet-aspire-and-dev-container&#x2F;)
 * [Building Local AI Agents: Semantic Kernel Agent with Functions in C# using Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;02&#x2F;building-local-ai-agents-semantic-kernel-agent-with-functions-in-csharp-using-ollama&#x2F;)
 * [Building Local AI Agents: Semantic Kernel and Ollama in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;01&#x2F;building-local-ai-agents-semantic-kernel-and-ollama-in-csharp&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Run Phi-3 SLM on your machine with C# Semantic Kernel and Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;05&#x2F;01&#x2F;run-phi-3-slm-on-your-machine-with-csharp-semantic-kernel-and-ollama&#x2F;)
 * [What&#39;s new in C# 12](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;11&#x2F;14&#x2F;whats-new-in-csharp-12&#x2F;)
 * [Publish .NET Docker images using .NET SDK and GitHub Actions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;30&#x2F;publish-dotnet-docker-images-using-dotnet-sdk-and-github-actions&#x2F;)
-* [Simplify your .NET Docker image publishing workflow with the .NET SDK](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;10&#x2F;24&#x2F;simplify-your-dotnet-docker-image-publishing-workflow-with-the-dotnet-sdk&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
