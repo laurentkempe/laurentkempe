@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Dockerizing your .NET C# MCP Server for AI Clients like Claude Desktop](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;27&#x2F;dockerizing-your-dotnet-csharp-mcp-server-for-ai-clients-like-claude-desktop&#x2F;)
 * [Model Context Protocol Made Easy: Building an MCP Server in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;22&#x2F;model-context-protocol-made-easy-building-an-mcp-server-in-csharp&#x2F;)
 * [Harnessing AI in C# with Microsoft.Extensions.AI, Ollama, and MCP Server](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;15&#x2F;harnessing-ai-in-csharp-with-microsoftextensionsai-ollama-and-mcp-server&#x2F;)
 * [.NET Aspire and Dev Container](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;06&#x2F;dotnet-aspire-and-dev-container&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;01&#x2F;27&#x2F;leveraging-microsoftextensionsai-for-tool-calling-in-csharp&#x2F;)
 * [Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;10&#x2F;28&#x2F;learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine&#x2F;)
 * [Run Phi-3 SLM on your machine with C# Semantic Kernel and Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;05&#x2F;01&#x2F;run-phi-3-slm-on-your-machine-with-csharp-semantic-kernel-and-ollama&#x2F;)
-* [What&#39;s new in C# 12](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2023&#x2F;11&#x2F;14&#x2F;whats-new-in-csharp-12&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
