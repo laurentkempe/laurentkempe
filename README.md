@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Decouple yourself from your LLM commodities using Dapr Conversation](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;09&#x2F;24&#x2F;decouple-yourself-from-your-llm-commodities-using-dapr-conversation&#x2F;)
 * [SSE-Powered MCP Server with C# and .NET in 15.7MB executable](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;04&#x2F;05&#x2F;sse-powered-mcp-server-with-csharp-and-dotnet-in-157mb-executable&#x2F;)
 * [Dockerizing your .NET C# MCP Server for AI Clients like Claude Desktop](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;27&#x2F;dockerizing-your-dotnet-csharp-mcp-server-for-ai-clients-like-claude-desktop&#x2F;)
 * [Model Context Protocol Made Easy: Building an MCP Server in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;22&#x2F;model-context-protocol-made-easy-building-an-mcp-server-in-csharp&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Building Local AI Agents: Semantic Kernel and Ollama in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;01&#x2F;building-local-ai-agents-semantic-kernel-and-ollama-in-csharp&#x2F;)
 * [Harnessing DeepSeek-R1 distilled model with .NET Aspire and Ollama locally](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;02&#x2F;01&#x2F;harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally&#x2F;)
 * [Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;01&#x2F;27&#x2F;leveraging-microsoftextensionsai-for-tool-calling-in-csharp&#x2F;)
-* [Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2024&#x2F;10&#x2F;28&#x2F;learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
