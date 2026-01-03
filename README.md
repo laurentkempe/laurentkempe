@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [C# 14 More Partial Members: Partial Events and Partial Constructors](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;01&#x2F;03&#x2F;csharp-14-more-partial-members-partial-events-and-constructors&#x2F;)
 * [C# 14 Extension Members: Complete Guide to Properties, Operators, and Static Extensions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;12&#x2F;29&#x2F;csharp-14-extension-members-complete-guide&#x2F;)
 * [C# 14 Null-conditional Assignment: Complete Guide to Elegant Null Handling](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;12&#x2F;28&#x2F;csharp-14-null-conditional-assignment-complete-guide&#x2F;)
 * [C# 14 Field Keyword: Simplifying Property Accessors](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;12&#x2F;27&#x2F;csharp-14-field-keyword-simplifying-property-accessors&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Model Context Protocol Made Easy: Building an MCP Server in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;22&#x2F;model-context-protocol-made-easy-building-an-mcp-server-in-csharp&#x2F;)
 * [Harnessing AI in C# with Microsoft.Extensions.AI, Ollama, and MCP Server](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;15&#x2F;harnessing-ai-in-csharp-with-microsoftextensionsai-ollama-and-mcp-server&#x2F;)
 * [.NET Aspire and Dev Container](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;06&#x2F;dotnet-aspire-and-dev-container&#x2F;)
-* [Building Local AI Agents: Semantic Kernel Agent with Functions in C# using Ollama](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;02&#x2F;building-local-ai-agents-semantic-kernel-agent-with-functions-in-csharp-using-ollama&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
