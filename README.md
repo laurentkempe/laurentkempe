@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Exploring .NET 11 Preview 1 Runtime Async: A dive into the Future of Async in .NET](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;02&#x2F;14&#x2F;exploring-net-11-preview-1-runtime-async-a-dive-into-the-future-of-async-in-net&#x2F;)
 * [Agent Skills: From Claude to Open Standard to Your Daily Coding Workflow](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;01&#x2F;27&#x2F;Agent-Skills-From-Claude-to-Open-Standard&#x2F;)
 * [C# 14 More Partial Members: Partial Events and Partial Constructors](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;01&#x2F;03&#x2F;csharp-14-more-partial-members-partial-events-and-constructors&#x2F;)
 * [C# 14 Extension Members: Complete Guide to Properties, Operators, and Static Extensions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;12&#x2F;29&#x2F;csharp-14-extension-members-complete-guide&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [SSE-Powered MCP Server with C# and .NET in 15.7MB executable](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;04&#x2F;05&#x2F;sse-powered-mcp-server-with-csharp-and-dotnet-in-157mb-executable&#x2F;)
 * [Dockerizing your .NET C# MCP Server for AI Clients like Claude Desktop](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;27&#x2F;dockerizing-your-dotnet-csharp-mcp-server-for-ai-clients-like-claude-desktop&#x2F;)
 * [Model Context Protocol Made Easy: Building an MCP Server in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;22&#x2F;model-context-protocol-made-easy-building-an-mcp-server-in-csharp&#x2F;)
-* [Harnessing AI in C# with Microsoft.Extensions.AI, Ollama, and MCP Server](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;03&#x2F;15&#x2F;harnessing-ai-in-csharp-with-microsoftextensionsai-ollama-and-mcp-server&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
