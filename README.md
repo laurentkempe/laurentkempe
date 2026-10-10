@@ -11,6 +11,7 @@ I enjoy spending some of my free time in open source projects and personal side 
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Building a TypeSafe&#39;s Jev MCP server with .NET](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;10&#x2F;10&#x2F;building-a-typesafe-jev-mcp-server-dotnet&#x2F;)
 * [C# 15 Collection Expression Arguments: What&#39;s New vs C# 12 and 13](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;09&#x2F;26&#x2F;csharp-15-collection-expression-arguments&#x2F;)
 * [TypeSafe&#39;s Jev AI Model in .NET: A Community SDK for Structured AI Output in C#](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;09&#x2F;19&#x2F;typesafe-jev-dotnet-sdk-introduction&#x2F;)
 * [Installing Omarchy on My Surface Book for .NET Development](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;09&#x2F;05&#x2F;installing-omarchy-on-my-surface-book&#x2F;)
@@ -20,7 +21,6 @@ I enjoy spending some of my free time in open source projects and personal side 
 * [Exploring .NET 11 Preview 1 Runtime Async: A dive into the Future of Async in .NET](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;02&#x2F;14&#x2F;exploring-net-11-preview-1-runtime-async-a-dive-into-the-future-of-async-in-net&#x2F;)
 * [Agent Skills: From Claude to Open Standard to Your Daily Coding Workflow](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;01&#x2F;27&#x2F;Agent-Skills-From-Claude-to-Open-Standard&#x2F;)
 * [C# 14 More Partial Members: Partial Events and Partial Constructors](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2026&#x2F;01&#x2F;03&#x2F;csharp-14-more-partial-members-partial-events-and-constructors&#x2F;)
-* [C# 14 Extension Members: Complete Guide to Properties, Operators, and Static Extensions](https:&#x2F;&#x2F;laurentkempe.com&#x2F;2025&#x2F;12&#x2F;29&#x2F;csharp-14-extension-members-complete-guide&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
